@@ -1,4 +1,20 @@
+
+#gem "bulma-clean-theme"
+gem "github-pages", group: :jekyll_plugins
+
+
+# # no, do not include gem "bulma-clean-theme"
+gem "jekyll-remote-theme"
+# gem "jekyll-sitemap"
+# gem "jekyll-paginate"
+# gem "kramdown-parser-gfm"
+
 source "https://rubygems.org"
+
+
+
+
+#gem 'kramdown-parser-gfm'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
