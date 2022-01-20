@@ -1,0 +1,4 @@
+cameronelliott.com:80 {
+    root * /var/www/html/cameronelliott
+    file_server
+}
