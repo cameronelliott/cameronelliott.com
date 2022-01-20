@@ -9,11 +9,11 @@ These days I'm focused on WebRTC.
 
 Specifically, I'm mostly focused on DeadSFU.  An attempt to build a dead-simple to use SFU.
 
-[DeadSFU Github](https://github.com/x186k/deadsfu)
-[DeadSFU.com](https://deadsfu.com)
+[DeadSFU Github](https://github.com/x186k/deadsfu)  
+[DeadSFU.com](https://deadsfu.com)  
 
 How to reach me:
 
-[Email - cameron@cameronelliott.com](mailto:cameron@cameronelliott.com)
-[Linkedin](https://www.linkedin.com/in/camelliott/)
-[Twitter](https://twitter.com/cameronelliottX)
+[Email - cameron@cameronelliott.com](mailto:cameron@cameronelliott.com)  
+[Linkedin](https://www.linkedin.com/in/camelliott/)  
+[Twitter](https://twitter.com/cameronelliottX)  
